@@ -66,7 +66,7 @@ d3.csv("assets/data/data.csv").then(function (stateData) {
 
     .attr("r", "12")
     
-    .attr("fill", "blue")
+    .attr("fill", "red")
 
     .attr("opacity", ".5");  
 
